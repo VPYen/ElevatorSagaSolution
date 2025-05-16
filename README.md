@@ -20,6 +20,13 @@
 [![Javascript][Javascript]][Javascript-url] 
 
 
+<!-- LICENSE -->
+### License
+---
+
+Distributed under the Apache License 2.0. See [License](./LICENSE.md) for more information.
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
