@@ -15,8 +15,6 @@
   <a href="https://play.elevatorsaga.com/">Elevator Saga</a>
 </div>
 
-
----
 <!-- Languages-->
 ## Language
 [![Javascript][Javascript]][Javascript-url] 
