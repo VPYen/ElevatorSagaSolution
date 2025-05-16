@@ -24,7 +24,7 @@
 ### License
 ---
 
-Distributed under the Apache License 2.0. See [License](./LICENSE.md) for more information.
+Distributed under the Unlicense License. See [License](./LICENSE.md) for more information.
 
 
 
